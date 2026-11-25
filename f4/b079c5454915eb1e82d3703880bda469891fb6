@@ -1,8 +1,10 @@
 components/script/dom/document/document_event_handler.rs
   s_1a294526e33420::t_8b5e72acf6183b 2261-2270
+  s_ddaf920f455d44::t_b7c45573a7df1d 2261-2270
 components/script/dom/closewatcher/closewatchermanager.rs
   s_1a294526e33420::t_8b5e72acf6183b 8,61-77
   s_1a294526e33420::t_3005a9e04e4d08 78
+  s_ddaf920f455d44::t_a53b446e1dcb8c 8,61-78
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -22,6 +24,14 @@ components/script/dom/closewatcher/closewatchermanager.rs
         "stats_total_additions": 29,
         "stats_total_deletions": 1
       }
+    },
+    "s_ddaf920f455d44": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_e13a78e48ffeQIEfzhEvlK5K4L",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "lixiaoxiang <lixiaoxiang3@h-partners.com>"
     }
   }
 }
