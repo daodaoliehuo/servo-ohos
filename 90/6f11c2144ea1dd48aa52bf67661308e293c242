@@ -1,0 +1,23 @@
+components/script/dom/window/windowproxy.rs
+  s_ddaf920f455d44::t_b464cbb1ff3746 80,530-539
+components/script/dom/closewatcher/closewatchermanager.rs
+  s_ddaf920f455d44::t_a53b446e1dcb8c 8,61-78
+components/script/dom/document/document_event_handler.rs
+  s_ddaf920f455d44::t_b7c45573a7df1d 2261-2270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.10",
+  "base_commit_sha": "906f11c2144ea1dd48aa52bf67661308e293c242",
+  "prompts": {},
+  "sessions": {
+    "s_ddaf920f455d44": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_e13a78e48ffeQIEfzhEvlK5K4L",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "lixiaoxiang <lixiaoxiang3@h-partners.com>"
+    }
+  }
+}
