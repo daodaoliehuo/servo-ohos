@@ -1,0 +1,33 @@
+docs/ohos-sync/patches/0137-docs-record-patches-136-to-137-in-the-stack-manifest.patch
+  s_1a294526e33420::t_ac65c8a14cead1 1-32
+docs/ohos-sync/patches/0136-backport-script-handle-Esc-press-as-close-request-49.patch
+  s_1a294526e33420::t_ac65c8a14cead1 1-972
+docs/ohos-sync/STACK.md
+  s_1a294526e33420::t_8c3a39d3c09433 162-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.10",
+  "base_commit_sha": "e939b92f53fe5fbee1a0c24a60d6f60b1e383f3e",
+  "prompts": {},
+  "humans": {
+    "h_0e1c9c0b9b85b6": {
+      "author": "daodaoliehuo <352812717@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_1a294526e33420": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_dee93e807ffeijT4e3JGROE024",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "daodaoliehuo <352812717@qq.com>",
+      "custom_attributes": {
+        "stats_models": {"DeepSeek-V4.1-Flash-1017":{"additions":2229,"deletions":1099}},
+        "stats_total_additions": 2229,
+        "stats_total_deletions": 1099
+      }
+    }
+  }
+}
