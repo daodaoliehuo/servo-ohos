@@ -1,0 +1,28 @@
+docs/ohos-sync/STACK.md
+  s_1a294526e33420::t_8c3a39d3c09433 162-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.10",
+  "base_commit_sha": "6c4e17aca8628f9ed8f3c4e01abcf106a9a5544c",
+  "prompts": {},
+  "humans": {
+    "h_0e1c9c0b9b85b6": {
+      "author": "daodaoliehuo <352812717@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_1a294526e33420": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_dee93e807ffeijT4e3JGROE024",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "daodaoliehuo <352812717@qq.com>",
+      "custom_attributes": {
+        "stats_models": {"DeepSeek-V4.1-Flash-1017":{"additions":2}},
+        "stats_total_additions": 2
+      }
+    }
+  }
+}
