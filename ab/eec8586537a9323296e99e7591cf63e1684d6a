@@ -1,0 +1,23 @@
+docs/ohos-sync/STACK.md
+  s_1a294526e33420::t_8c3a39d3c09433 162-163
+docs/ohos-sync/patches/0136-backport-script-handle-Esc-press-as-close-request-49.patch
+  s_1a294526e33420::t_ec079b65e5ac91 1-954
+docs/ohos-sync/patches/0137-docs-record-patches-136-to-137-in-the-stack-manifest.patch
+  s_1a294526e33420::t_d1b72420a3ad3c 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.10",
+  "base_commit_sha": "abeec8586537a9323296e99e7591cf63e1684d6a",
+  "prompts": {},
+  "sessions": {
+    "s_1a294526e33420": {
+      "agent_id": {
+        "tool": "opencode2",
+        "id": "ses_dee93e807ffeijT4e3JGROE024",
+        "model": "DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "daodaoliehuo <352812717@qq.com>"
+    }
+  }
+}
