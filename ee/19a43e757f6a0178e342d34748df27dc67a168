@@ -1,0 +1,14 @@
+docs/ohos-sync/STACK.md
+  h_0e1c9c0b9b85b6 162-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.10",
+  "base_commit_sha": "ee19a43e757f6a0178e342d34748df27dc67a168",
+  "prompts": {},
+  "humans": {
+    "h_0e1c9c0b9b85b6": {
+      "author": "daodaoliehuo <352812717@qq.com>"
+    }
+  }
+}
